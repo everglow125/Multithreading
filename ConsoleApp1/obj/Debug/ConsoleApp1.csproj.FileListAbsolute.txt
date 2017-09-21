@@ -1,0 +1,7 @@
+E:\git\Multithreading\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\git\Multithreading\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\git\Multithreading\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\git\Multithreading\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\git\Multithreading\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\git\Multithreading\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\git\Multithreading\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
