@@ -57,6 +57,18 @@
     <Compile Include="Chart2\Test202.cs" />
     <Compile Include="Chart2\Test203.cs" />
     <Compile Include="Chart2\Test204.cs" />
+    <Compile Include="Chart2\Test205.cs" />
+    <Compile Include="Chart2\Test206.cs" />
+    <Compile Include="Chart2\Test207.cs" />
+    <Compile Include="Chart2\Test208.cs" />
+    <Compile Include="Chart2\Test209.cs" />
+    <Compile Include="Chart3\Test301.cs" />
+    <Compile Include="Chart3\Test302.cs" />
+    <Compile Include="Chart3\Test303.cs" />
+    <Compile Include="Chart3\Test304.cs" />
+    <Compile Include="Chart3\Test305.cs" />
+    <Compile Include="Chart3\Test306.cs" />
+    <Compile Include="Chart3\Test307.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

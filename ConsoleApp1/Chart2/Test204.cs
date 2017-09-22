@@ -7,7 +7,7 @@ using System.Threading;
 namespace ConsoleApp1.Chart2
 {
     /// <summary>
-    /// AutoResetEvent 从一个线程向另一个线程发送通知
+    /// AutoResetEvent 从一个线程向另一个线程发送通知 类似于过闸机
     /// </summary>
     public class Test204
     {

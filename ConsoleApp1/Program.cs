@@ -1,5 +1,6 @@
 ﻿using ConsoleApp1.Chart1;
 using ConsoleApp1.Chart2;
+using ConsoleApp1.Chart3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Test204.Excute();
+            Test307.Excute();
 
         }
     }
